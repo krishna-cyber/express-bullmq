@@ -1,4 +1,8 @@
 {
+	"name": "bullmq-express",
+	"version": "1.0.0",
+	"description": "A simple Express server that uses BullMQ to manage a queue.",
+	"main": "index.ts",
 	"dependencies": {
 		"bullmq": "^5.77.3",
 		"express": "^5.2.1",
